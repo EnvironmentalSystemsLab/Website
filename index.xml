@@ -2,322 +2,322 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Environmental Systems Lab | Cornell University</title>
-    <link>http://www.environmentalsystemslab.com/</link>
+    <link>https://environmentalsystemslab.github.io/Website/</link>
     <description>Recent content on Environmental Systems Lab | Cornell University</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://www.environmentalsystemslab.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://environmentalsystemslab.github.io/Website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eddy3D</title>
-      <link>http://www.environmentalsystemslab.com/software/eddy3d/</link>
+      <link>https://environmentalsystemslab.github.io/Website/software/eddy3d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/software/eddy3d/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/software/eddy3d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction to sustainable design</title>
-      <link>http://www.environmentalsystemslab.com/teaching/es1/</link>
+      <link>https://environmentalsystemslab.github.io/Website/teaching/es1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/teaching/es1/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/teaching/es1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Journal Articles</title>
-      <link>http://www.environmentalsystemslab.com/publications/journal/</link>
+      <link>https://environmentalsystemslab.github.io/Website/publications/journal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/publications/journal/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/publications/journal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulating travel patterns in urban design</title>
-      <link>http://www.environmentalsystemslab.com/research/choicemodel/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/choicemodel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/choicemodel/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/choicemodel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tensor Field Networks</title>
-      <link>http://www.environmentalsystemslab.com/research/tensor-field-urbano/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/tensor-field-urbano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/tensor-field-urbano/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/tensor-field-urbano/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urban design attributes and resilience</title>
-      <link>http://www.environmentalsystemslab.com/research/kuda/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/kuda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/kuda/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/kuda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urbano</title>
-      <link>http://www.environmentalsystemslab.com/research/urbano/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/urbano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/urbano/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/urbano/</guid>
       <description></description>
     </item>
     
     <item>
       <title>View Satisfaction Model</title>
-      <link>http://www.environmentalsystemslab.com/research/view-satisfaction-prediction/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/view-satisfaction-prediction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/view-satisfaction-prediction/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/view-satisfaction-prediction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Building Dynamics</title>
-      <link>http://www.environmentalsystemslab.com/teaching/class2/</link>
+      <link>https://environmentalsystemslab.github.io/Website/teaching/class2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/teaching/class2/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/teaching/class2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COVID-19 Eddy3D</title>
-      <link>http://www.environmentalsystemslab.com/research/covid-19-eddy3d/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/covid-19-eddy3d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/covid-19-eddy3d/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/covid-19-eddy3d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daylight Score</title>
-      <link>http://www.environmentalsystemslab.com/research/rdef/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/rdef/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/rdef/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/rdef/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Early Design</title>
-      <link>http://www.environmentalsystemslab.com/research/earlydesigndecisionmaking/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/earlydesigndecisionmaking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/earlydesigndecisionmaking/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/earlydesigndecisionmaking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peer-Reviewed Conference Papers</title>
-      <link>http://www.environmentalsystemslab.com/publications/conference/</link>
+      <link>https://environmentalsystemslab.github.io/Website/publications/conference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/publications/conference/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/publications/conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urban Modeling Interface</title>
-      <link>http://www.environmentalsystemslab.com/research/umi/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/umi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/umi/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/umi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urbano.io</title>
-      <link>http://www.environmentalsystemslab.com/software/urbano/</link>
+      <link>https://environmentalsystemslab.github.io/Website/software/urbano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/software/urbano/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/software/urbano/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Archsim</title>
-      <link>http://www.environmentalsystemslab.com/software/archsim/</link>
+      <link>https://environmentalsystemslab.github.io/Website/software/archsim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/software/archsim/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/software/archsim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic Thermal Imaging</title>
-      <link>http://www.environmentalsystemslab.com/research/autozoner/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/autozoner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/autozoner/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/autozoner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eddy</title>
-      <link>http://www.environmentalsystemslab.com/research/eddy/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/eddy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/eddy/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/eddy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning by Playing</title>
-      <link>http://www.environmentalsystemslab.com/research/simulation-game/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/simulation-game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/simulation-game/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/simulation-game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magazines and Online Articles</title>
-      <link>http://www.environmentalsystemslab.com/publications/magazine/</link>
+      <link>https://environmentalsystemslab.github.io/Website/publications/magazine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/publications/magazine/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/publications/magazine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pixelcounter</title>
-      <link>http://www.environmentalsystemslab.com/research/pixelcounter/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/pixelcounter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/pixelcounter/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/pixelcounter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urban energy flows</title>
-      <link>http://www.environmentalsystemslab.com/teaching/class3/</link>
+      <link>https://environmentalsystemslab.github.io/Website/teaching/class3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/teaching/class3/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/teaching/class3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HDR Photography</title>
-      <link>http://www.environmentalsystemslab.com/research/hdr-photography/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/hdr-photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/hdr-photography/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/hdr-photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UD</title>
-      <link>http://www.environmentalsystemslab.com/software/ud/</link>
+      <link>https://environmentalsystemslab.github.io/Website/software/ud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/software/ud/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/software/ud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UMI</title>
-      <link>http://www.environmentalsystemslab.com/software/umi/</link>
+      <link>https://environmentalsystemslab.github.io/Website/software/umi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/software/umi/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/software/umi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Campus building energy modeling</title>
-      <link>http://www.environmentalsystemslab.com/research/automatedcampusmodel/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/automatedcampusmodel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/automatedcampusmodel/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/automatedcampusmodel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rapid UBEM generation</title>
-      <link>http://www.environmentalsystemslab.com/research/shoeboxer/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/shoeboxer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/shoeboxer/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/shoeboxer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daylight Density</title>
-      <link>http://www.environmentalsystemslab.com/research/daylight-density/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/daylight-density/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/daylight-density/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/daylight-density/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urban Daylight Simulation</title>
-      <link>http://www.environmentalsystemslab.com/research/urban-daylight/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/urban-daylight/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/urban-daylight/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/urban-daylight/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Archsim</title>
-      <link>http://www.environmentalsystemslab.com/research/archsim/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/archsim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/archsim/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/archsim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urban Energy Modeling</title>
-      <link>http://www.environmentalsystemslab.com/research/energy-atlas/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/energy-atlas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/energy-atlas/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/energy-atlas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Erciyes Lab Building</title>
-      <link>http://www.environmentalsystemslab.com/research/erciyes/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/erciyes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/erciyes/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/erciyes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Campus Energy Model</title>
-      <link>http://www.environmentalsystemslab.com/research/campusmodel/</link>
+      <link>https://environmentalsystemslab.github.io/Website/research/campusmodel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/research/campusmodel/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/research/campusmodel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Current Members</title>
-      <link>http://www.environmentalsystemslab.com/team/current/</link>
+      <link>https://environmentalsystemslab.github.io/Website/team/current/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/team/current/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/team/current/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Former Members</title>
-      <link>http://www.environmentalsystemslab.com/team/former/</link>
+      <link>https://environmentalsystemslab.github.io/Website/team/former/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.environmentalsystemslab.com/team/former/</guid>
+      <guid>https://environmentalsystemslab.github.io/Website/team/former/</guid>
       <description></description>
     </item>
     
