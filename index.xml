@@ -2,322 +2,322 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Environmental Systems Lab | Cornell University</title>
-    <link>https://environmentalsystemslab.github.io/Website/</link>
+    <link>https://es.aap.cornell.edu/</link>
     <description>Recent content on Environmental Systems Lab | Cornell University</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://environmentalsystemslab.github.io/Website/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://es.aap.cornell.edu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eddy3D</title>
-      <link>https://environmentalsystemslab.github.io/Website/software/eddy3d/</link>
+      <link>https://es.aap.cornell.edu/software/eddy3d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/software/eddy3d/</guid>
+      <guid>https://es.aap.cornell.edu/software/eddy3d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction to sustainable design</title>
-      <link>https://environmentalsystemslab.github.io/Website/teaching/es1/</link>
+      <link>https://es.aap.cornell.edu/teaching/es1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/teaching/es1/</guid>
+      <guid>https://es.aap.cornell.edu/teaching/es1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Journal Articles</title>
-      <link>https://environmentalsystemslab.github.io/Website/publications/journal/</link>
+      <link>https://es.aap.cornell.edu/publications/journal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/publications/journal/</guid>
+      <guid>https://es.aap.cornell.edu/publications/journal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulating travel patterns in urban design</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/choicemodel/</link>
+      <link>https://es.aap.cornell.edu/research/choicemodel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/choicemodel/</guid>
+      <guid>https://es.aap.cornell.edu/research/choicemodel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tensor Field Networks</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/tensor-field-urbano/</link>
+      <link>https://es.aap.cornell.edu/research/tensor-field-urbano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/tensor-field-urbano/</guid>
+      <guid>https://es.aap.cornell.edu/research/tensor-field-urbano/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urban design attributes and resilience</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/kuda/</link>
+      <link>https://es.aap.cornell.edu/research/kuda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/kuda/</guid>
+      <guid>https://es.aap.cornell.edu/research/kuda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urbano</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/urbano/</link>
+      <link>https://es.aap.cornell.edu/research/urbano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/urbano/</guid>
+      <guid>https://es.aap.cornell.edu/research/urbano/</guid>
       <description></description>
     </item>
     
     <item>
       <title>View Satisfaction Model</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/view-satisfaction-prediction/</link>
+      <link>https://es.aap.cornell.edu/research/view-satisfaction-prediction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/view-satisfaction-prediction/</guid>
+      <guid>https://es.aap.cornell.edu/research/view-satisfaction-prediction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Building Dynamics</title>
-      <link>https://environmentalsystemslab.github.io/Website/teaching/class2/</link>
+      <link>https://es.aap.cornell.edu/teaching/class2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/teaching/class2/</guid>
+      <guid>https://es.aap.cornell.edu/teaching/class2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COVID-19 Eddy3D</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/covid-19-eddy3d/</link>
+      <link>https://es.aap.cornell.edu/research/covid-19-eddy3d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/covid-19-eddy3d/</guid>
+      <guid>https://es.aap.cornell.edu/research/covid-19-eddy3d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daylight Score</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/rdef/</link>
+      <link>https://es.aap.cornell.edu/research/rdef/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/rdef/</guid>
+      <guid>https://es.aap.cornell.edu/research/rdef/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Early Design</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/earlydesigndecisionmaking/</link>
+      <link>https://es.aap.cornell.edu/research/earlydesigndecisionmaking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/earlydesigndecisionmaking/</guid>
+      <guid>https://es.aap.cornell.edu/research/earlydesigndecisionmaking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peer-Reviewed Conference Papers</title>
-      <link>https://environmentalsystemslab.github.io/Website/publications/conference/</link>
+      <link>https://es.aap.cornell.edu/publications/conference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/publications/conference/</guid>
+      <guid>https://es.aap.cornell.edu/publications/conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urban Modeling Interface</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/umi/</link>
+      <link>https://es.aap.cornell.edu/research/umi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/umi/</guid>
+      <guid>https://es.aap.cornell.edu/research/umi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urbano.io</title>
-      <link>https://environmentalsystemslab.github.io/Website/software/urbano/</link>
+      <link>https://es.aap.cornell.edu/software/urbano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/software/urbano/</guid>
+      <guid>https://es.aap.cornell.edu/software/urbano/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Archsim</title>
-      <link>https://environmentalsystemslab.github.io/Website/software/archsim/</link>
+      <link>https://es.aap.cornell.edu/software/archsim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/software/archsim/</guid>
+      <guid>https://es.aap.cornell.edu/software/archsim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic Thermal Imaging</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/autozoner/</link>
+      <link>https://es.aap.cornell.edu/research/autozoner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/autozoner/</guid>
+      <guid>https://es.aap.cornell.edu/research/autozoner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eddy</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/eddy/</link>
+      <link>https://es.aap.cornell.edu/research/eddy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/eddy/</guid>
+      <guid>https://es.aap.cornell.edu/research/eddy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning by Playing</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/simulation-game/</link>
+      <link>https://es.aap.cornell.edu/research/simulation-game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/simulation-game/</guid>
+      <guid>https://es.aap.cornell.edu/research/simulation-game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magazines and Online Articles</title>
-      <link>https://environmentalsystemslab.github.io/Website/publications/magazine/</link>
+      <link>https://es.aap.cornell.edu/publications/magazine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/publications/magazine/</guid>
+      <guid>https://es.aap.cornell.edu/publications/magazine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pixelcounter</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/pixelcounter/</link>
+      <link>https://es.aap.cornell.edu/research/pixelcounter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/pixelcounter/</guid>
+      <guid>https://es.aap.cornell.edu/research/pixelcounter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urban energy flows</title>
-      <link>https://environmentalsystemslab.github.io/Website/teaching/class3/</link>
+      <link>https://es.aap.cornell.edu/teaching/class3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/teaching/class3/</guid>
+      <guid>https://es.aap.cornell.edu/teaching/class3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HDR Photography</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/hdr-photography/</link>
+      <link>https://es.aap.cornell.edu/research/hdr-photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/hdr-photography/</guid>
+      <guid>https://es.aap.cornell.edu/research/hdr-photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UD</title>
-      <link>https://environmentalsystemslab.github.io/Website/software/ud/</link>
+      <link>https://es.aap.cornell.edu/software/ud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/software/ud/</guid>
+      <guid>https://es.aap.cornell.edu/software/ud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UMI</title>
-      <link>https://environmentalsystemslab.github.io/Website/software/umi/</link>
+      <link>https://es.aap.cornell.edu/software/umi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/software/umi/</guid>
+      <guid>https://es.aap.cornell.edu/software/umi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Campus building energy modeling</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/automatedcampusmodel/</link>
+      <link>https://es.aap.cornell.edu/research/automatedcampusmodel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/automatedcampusmodel/</guid>
+      <guid>https://es.aap.cornell.edu/research/automatedcampusmodel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rapid UBEM generation</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/shoeboxer/</link>
+      <link>https://es.aap.cornell.edu/research/shoeboxer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/shoeboxer/</guid>
+      <guid>https://es.aap.cornell.edu/research/shoeboxer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daylight Density</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/daylight-density/</link>
+      <link>https://es.aap.cornell.edu/research/daylight-density/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/daylight-density/</guid>
+      <guid>https://es.aap.cornell.edu/research/daylight-density/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urban Daylight Simulation</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/urban-daylight/</link>
+      <link>https://es.aap.cornell.edu/research/urban-daylight/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/urban-daylight/</guid>
+      <guid>https://es.aap.cornell.edu/research/urban-daylight/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Archsim</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/archsim/</link>
+      <link>https://es.aap.cornell.edu/research/archsim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/archsim/</guid>
+      <guid>https://es.aap.cornell.edu/research/archsim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urban Energy Modeling</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/energy-atlas/</link>
+      <link>https://es.aap.cornell.edu/research/energy-atlas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/energy-atlas/</guid>
+      <guid>https://es.aap.cornell.edu/research/energy-atlas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Erciyes Lab Building</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/erciyes/</link>
+      <link>https://es.aap.cornell.edu/research/erciyes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/erciyes/</guid>
+      <guid>https://es.aap.cornell.edu/research/erciyes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Campus Energy Model</title>
-      <link>https://environmentalsystemslab.github.io/Website/research/campusmodel/</link>
+      <link>https://es.aap.cornell.edu/research/campusmodel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/research/campusmodel/</guid>
+      <guid>https://es.aap.cornell.edu/research/campusmodel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Current Members</title>
-      <link>https://environmentalsystemslab.github.io/Website/team/current/</link>
+      <link>https://es.aap.cornell.edu/team/current/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/team/current/</guid>
+      <guid>https://es.aap.cornell.edu/team/current/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Former Members</title>
-      <link>https://environmentalsystemslab.github.io/Website/team/former/</link>
+      <link>https://es.aap.cornell.edu/team/former/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/team/former/</guid>
+      <guid>https://es.aap.cornell.edu/team/former/</guid>
       <description></description>
     </item>
     

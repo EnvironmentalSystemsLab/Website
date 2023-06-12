@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Softwares on Environmental Systems Lab | Cornell University</title>
-    <link>https://environmentalsystemslab.github.io/Website/software/</link>
+    <link>https://es.aap.cornell.edu/software/</link>
     <description>Recent content in Softwares on Environmental Systems Lab | Cornell University</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://environmentalsystemslab.github.io/Website/software/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://es.aap.cornell.edu/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eddy3D</title>
-      <link>https://environmentalsystemslab.github.io/Website/software/eddy3d/</link>
+      <link>https://es.aap.cornell.edu/software/eddy3d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/software/eddy3d/</guid>
+      <guid>https://es.aap.cornell.edu/software/eddy3d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urbano.io</title>
-      <link>https://environmentalsystemslab.github.io/Website/software/urbano/</link>
+      <link>https://es.aap.cornell.edu/software/urbano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/software/urbano/</guid>
+      <guid>https://es.aap.cornell.edu/software/urbano/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Archsim</title>
-      <link>https://environmentalsystemslab.github.io/Website/software/archsim/</link>
+      <link>https://es.aap.cornell.edu/software/archsim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/software/archsim/</guid>
+      <guid>https://es.aap.cornell.edu/software/archsim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UD</title>
-      <link>https://environmentalsystemslab.github.io/Website/software/ud/</link>
+      <link>https://es.aap.cornell.edu/software/ud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/software/ud/</guid>
+      <guid>https://es.aap.cornell.edu/software/ud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UMI</title>
-      <link>https://environmentalsystemslab.github.io/Website/software/umi/</link>
+      <link>https://es.aap.cornell.edu/software/umi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/software/umi/</guid>
+      <guid>https://es.aap.cornell.edu/software/umi/</guid>
       <description></description>
     </item>
     

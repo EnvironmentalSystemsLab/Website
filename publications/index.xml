@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Environmental Systems Lab | Cornell University</title>
-    <link>https://environmentalsystemslab.github.io/Website/publications/</link>
+    <link>https://es.aap.cornell.edu/publications/</link>
     <description>Recent content in Publications on Environmental Systems Lab | Cornell University</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://environmentalsystemslab.github.io/Website/publications/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://es.aap.cornell.edu/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Journal Articles</title>
-      <link>https://environmentalsystemslab.github.io/Website/publications/journal/</link>
+      <link>https://es.aap.cornell.edu/publications/journal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/publications/journal/</guid>
+      <guid>https://es.aap.cornell.edu/publications/journal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peer-Reviewed Conference Papers</title>
-      <link>https://environmentalsystemslab.github.io/Website/publications/conference/</link>
+      <link>https://es.aap.cornell.edu/publications/conference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/publications/conference/</guid>
+      <guid>https://es.aap.cornell.edu/publications/conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magazines and Online Articles</title>
-      <link>https://environmentalsystemslab.github.io/Website/publications/magazine/</link>
+      <link>https://es.aap.cornell.edu/publications/magazine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://environmentalsystemslab.github.io/Website/publications/magazine/</guid>
+      <guid>https://es.aap.cornell.edu/publications/magazine/</guid>
       <description></description>
     </item>
     
