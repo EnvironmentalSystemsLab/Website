@@ -4,25 +4,22 @@
     <title>Teams on Environmental Systems Lab | Cornell University</title>
     <link>https://es.aap.cornell.edu/team/</link>
     <description>Recent content in Teams on Environmental Systems Lab | Cornell University</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://es.aap.cornell.edu/team/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://es.aap.cornell.edu/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Current Members</title>
       <link>https://es.aap.cornell.edu/team/current/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://es.aap.cornell.edu/team/current/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Former Members</title>
       <link>https://es.aap.cornell.edu/team/former/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://es.aap.cornell.edu/team/former/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
