@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Environmental Systems Lab | Cornell University</title>
+    <link>https://es.aap.cornell.edu/publications/</link>
+    <description>Recent content in Publications on Environmental Systems Lab | Cornell University</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://es.aap.cornell.edu/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journal Articles</title>
+      <link>https://es.aap.cornell.edu/publications/journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://es.aap.cornell.edu/publications/journal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Peer-Reviewed Conference Papers</title>
+      <link>https://es.aap.cornell.edu/publications/conference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://es.aap.cornell.edu/publications/conference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Magazines and Online Articles</title>
+      <link>https://es.aap.cornell.edu/publications/magazine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://es.aap.cornell.edu/publications/magazine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>https://es.aap.cornell.edu/publications/book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://es.aap.cornell.edu/publications/book/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
